@@ -365,14 +365,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB team for the robust database solution
 - Tailwind CSS for the utility-first CSS framework
 
-##  Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/Anuj-P-06/E-comm_FARM-STACK/issues) page
-2. Create a new issue with detailed description
-3. Contact: [your-email@example.com]
-
----
-
 **⭐ If you found this project helpful, please consider giving it a star!**

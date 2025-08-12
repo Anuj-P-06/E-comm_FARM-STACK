@@ -2,7 +2,7 @@
 
 A modern, full-stack e-commerce web application built with **F**astAPI, **R**eact, and **M**ongoDB (FARM Stack). This application provides a complete product management system with shopping cart functionality and an admin panel.
 
-## 🌟 Features
+##  Features
 
 ### User Features
 - **Browse Products**: View all available products in a responsive grid layout
@@ -22,7 +22,7 @@ A modern, full-stack e-commerce web application built with **F**astAPI, **R**eac
 - **Database Integration**: MongoDB Atlas cloud database
 - **Error Handling**: Comprehensive error handling on both frontend and backend
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** - Modern JavaScript library for building user interfaces
@@ -42,7 +42,7 @@ A modern, full-stack e-commerce web application built with **F**astAPI, **R**eac
 - **MongoDB Atlas** - Cloud-hosted MongoDB database
 - **MongoDB** - NoSQL document database
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 E-comm_FARM-STACK/
@@ -78,7 +78,7 @@ E-comm_FARM-STACK/
 └── README.md                        # Project documentation
 ```
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - **Node.js** (v16 or higher)
@@ -150,7 +150,7 @@ The application will be available at:
 - **Backend API**: http://localhost:8000
 - **API Documentation**: http://localhost:8000/docs
 
-## 🗄 Database Schema
+##  Database Schema
 
 ### Product Collection
 ```javascript
@@ -162,7 +162,7 @@ The application will be available at:
 }
 ```
 
-## 🚀 API Endpoints
+##  API Endpoints
 
 ### Products API
 
@@ -197,7 +197,7 @@ The application will be available at:
 }
 ```
 
-## 🎯 How It Works
+##  How It Works
 
 ### Application Flow
 
@@ -259,7 +259,7 @@ The application will be available at:
 - Environment variable loading
 - Connection testing and error handling
 
-## 🔒 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the backend directory with the following variables:
 
@@ -275,7 +275,7 @@ SECRET_KEY=your-secret-key-here
 
 **Security Note**: Never commit the `.env` file to version control. It's included in `.gitignore` for security.
 
-## 🧪 Testing
+##  Testing
 
 ### Backend Testing
 
@@ -302,7 +302,7 @@ The test script will:
 5. Remove items from cart
 6. Navigate to admin page and add a new product
 
-## 🚀 Deployment
+##  Deployment
 
 ### Backend Deployment (Heroku/Railway/DigitalOcean)
 
@@ -331,7 +331,7 @@ The test script will:
    - Replace `http://localhost:8000` with your deployed backend URL
    - Update CORS settings in backend to include frontend domain
 
-## 🤝 Contributing
+##  Contributing
 
 1. **Fork the repository**
 2. **Create a feature branch**
@@ -349,22 +349,23 @@ The test script will:
    ```
 6. **Open a Pull Request**
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## Screenshots
+<img width="1912" height="906" alt="Image" src="https://github.com/user-attachments/assets/d481edbf-be75-4607-833e-087d62ec8f4b" />
+<img width="1919" height="912" alt="Image" src="https://github.com/user-attachments/assets/36e51f88-ba0f-4fb7-a4f8-531409e1d2cd" />
+<img width="1915" height="906" alt="Image" src="https://github.com/user-attachments/assets/85458848-f299-4b85-8a70-cc897a95b02b" />
 
-**Anuj Patil** - [@Anuj-P-06](https://github.com/Anuj-P-06)
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - FastAPI documentation and community
 - React.js team for the excellent framework
 - MongoDB team for the robust database solution
 - Tailwind CSS for the utility-first CSS framework
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions:
 
